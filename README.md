@@ -154,7 +154,6 @@ Ecommerce_Analysis/
 
 ## Lien du projet GitHub
 
-👉 À compléter après publication :
 `https://roadmap.sh/projects/ecommerce-data-analysis`
 
 ---
