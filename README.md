@@ -32,7 +32,7 @@ Ce projet a pour objectif d’analyser les données transactionnelles d’un sit
 
 ### 1. Cloner le dépôt GitHub
 
-```bash
+```
 git clone https://github.com/cdjarabe07/Ecommerce_Analysis
 cd Ecommerce_Analysis
 ```
@@ -41,7 +41,7 @@ cd Ecommerce_Analysis
 
 ### 2. Installer les dépendances
 
-```bash
+```
 pip install pandas matplotlib openpyxl jupyter
 ```
 
@@ -49,7 +49,7 @@ pip install pandas matplotlib openpyxl jupyter
 
 ### 3. Lancer Jupyter Notebook
 
-```bash
+```
 jupyter notebook
 ```
 
